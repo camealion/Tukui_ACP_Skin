@@ -1,0 +1,11 @@
+## Interface: 40300
+## Title: |cff1784d1ElvUI|r ACP Skin
+## Notes: Editless Addon Control Panel Skin For ElvUI/Tukui
+## Author: Camealion
+## Version: 1.3
+## Dependencies: ACP
+## OptionalDeps: ElvUI, Tukui
+
+ElvUI_ACP_Skin.lua
+!Functions.lua
+
