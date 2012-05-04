@@ -1,5 +1,6 @@
-﻿local T, C, L = unpack(Tukui)
-	
+﻿if IsAddOnLoaded("ElvUI") then return end
+local T, C, L = unpack(Tukui)
+
 local function cbResize(self, event, ...)
     for i=1,20,1 do
         local checkbox = _G["ACP_AddonListEntry" .. i .. "Enabled"]
