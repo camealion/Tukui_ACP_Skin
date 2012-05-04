@@ -2,7 +2,7 @@
 ## Title: |cffC495DDTukui|r ACP Skin
 ## Notes: Editless Addon Control Panel Skin For Tukui
 ## Author: Camealion
-## Version: 1.4
+## Version: 1.5
 ## Dependencies: ACP
 ## OptionalDeps: Tukui
 
